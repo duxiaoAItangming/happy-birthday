@@ -1,8 +1,8 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greeting": "今天是你的21岁生日！",
+  "name": "唐明",
+  "greetingText": "祝你生日快乐！早日保研，身体健康！",
+  "wishText": "虽然之前的生日我补不上你，但是以后我希望可以每一年都陪你过生日",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
